@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       // home: TestScreen(),
-      home: const BottomNavigationScreen(),
+      home: const WelcomeScreen(),
     );
   }
 }
